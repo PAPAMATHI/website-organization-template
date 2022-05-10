@@ -1,0 +1,30 @@
+// Abstract files
+@import "./sass/abstracts/mixins";
+@import "./sass/abstracts/variables";
+
+// Vendor Files
+@import "./sass/vendors/bootstrap";
+
+// Core files
+@import "./sass/core/reset";
+@import "./sass/core/typography";
+
+// Components
+@import "./sass/components/buttons";
+@import "./sass/components/carousel";
+@import "./sass/components/slider";
+
+// Layout
+@import "./sass/layout/footer";
+@import "./sass/layout/grid";
+@import "./sass/layout/header";
+@import "./sass/layout//navigation";
+@import "./sass/layout/sidebar";
+
+// Sections
+@import "./sass/sections/cta";
+@import "./sass/sections/hero";
+
+// Pages
+@import "./sass/pages/about";
+@import "./sass/pages/home";

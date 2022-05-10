@@ -1,0 +1,22 @@
+{
+  "name": "tree-folder-website",
+  "version": "1.0.0",
+  "description": "Here is my minimal code for all my web development projects !",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./app.scss:public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/PAPAMATHI/Tree-Folder-Website.git"
+  },
+  "author": "PAPAMATHI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PAPAMATHI/Tree-Folder-Website/issues"
+  },
+  "homepage": "https://github.com/PAPAMATHI/Tree-Folder-Website#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
